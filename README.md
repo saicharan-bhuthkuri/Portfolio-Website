@@ -16,7 +16,7 @@ This is a personal portfolio website showcasing my projects, skills, and experie
 
 
 ## 📂 Project Structure
-
+```bash
 Portfolio-Website/
 │── assets/
 │   ├── css/      # Stylesheets
@@ -25,6 +25,7 @@ Portfolio-Website/
 │── index.html    # Main homepage
 │── 404.html      # Custom error page
 │── skills.json   # JSON file containing skill details
+```
 
 ## 🚀 Getting Started
 
