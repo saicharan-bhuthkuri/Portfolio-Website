@@ -1,53 +1,61 @@
-# Portfolio Website
+# 🚀 Portfolio Website
 
-This is a personal portfolio website showcasing my projects, skills, and experience. The site is designed to be responsive, user-friendly, and visually appealing.
+This is a personal portfolio website designed to showcase skills, projects, and experiences. It includes a custom 404 page, dynamic animations, and interactive elements using JavaScript and CSS.
 
-## 📌 Features
-
-**🖥️ Responsive Design** – Works on all devices (mobile, tablet, desktop).
-
-**⚡ Fast & Optimized** – Uses optimized images and minimal scripts.
-
-**🎨 Custom Styling** – Styled using CSS for a modern look.
-
-**🔍 SEO-Friendly** – Structured HTML for better search engine visibility.
-
-**📄 404 Page** – Custom error page for a smooth user experience.
-
-
-## 📂 Project Structure
+## 📁 Project Structure
 ```bash
-Portfolio-Website/
-│── assets/
-│   ├── css/      # Stylesheets
-│   ├── js/       # JavaScript files
-│   ├── images/   # Images and icons
-│── index.html    # Main homepage
-│── 404.html      # Custom error page
-│── skills.json   # JSON file containing skill details
+/assets  
+│── /css  
+│   ├── 🎨 404.css (Styling for the 404 error page)  
+│   ├── 🎨 style.css (Main stylesheet)  
+│── /images (Folder for storing images)  
+│── /js  
+│   ├── ⚙️ 404.js (Handles the 404 page interactions)  
+│   ├── ⚙️ app.js (Main JavaScript file)  
+│   ├── ⚙️ particles.min.js (Particles.js integration)  
+│   ├── ⚙️ script.js (Additional scripts)  
+│── 📄 404.html (Custom 404 error page)  
+│── 📄 index.html (Main homepage)  
+│── 📄 skills.json (JSON file containing skills data)
 ```
 
-## 🚀 Getting Started
+## ✨ Features
 
-### 1️⃣ Clone the Repository
+✅ **Modern UI Design** – Clean and professional portfolio layout.
+
+✅ **Custom 404 Page** – A stylish 404 error page with animations.
+
+✅ **Interactive Animations** – Smooth animations using JavaScript and CSS.
+
+✅ **Particles.js Integration** – Dynamic background effect.
+
+✅ **JSON Data Handling** – skills.json stores structured data.
+
+## 🛠 Technologies Used
+
+- 🏗 **HTML** – Structure of the web pages.
+
+- 🎨 **CSS** – Styling and layout.
+
+- ⚡ **JavaScript** – Interactivity and animations.
+
+- 📜 **JSON** – Storing structured data.
+
+
+## 🚀 Setup & Usage
+
+1. Clone the repository:
 ```bash
 git clone https://github.com/saicharan-bhuthkuri/Portfolio-Website.git
 ```
-### 2️⃣ Open in Browser
+2. Open index.html in a browser.
 
-Simply open index.html in any web browser.
+3. Ensure JavaScript and CSS files are properly linked.
 
-## 🎯 Technologies Used
+## 🔮 Future Improvements
 
-**HTML** – Structure of the site
+- 📱 Improve mobile responsiveness.
 
-**CSS** – Styling and responsiveness
+- 🎞 Add more animations and transitions.
 
-**JavaScript** – Dynamic content and interactions
-
-
-## 📢 Contributing
-
-If you'd like to contribute, feel free to fork the repo, make changes, and submit a pull request.
-
-
+- 🚧 Enhance the 404 page with interactive elements.
